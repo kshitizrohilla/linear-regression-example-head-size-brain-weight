@@ -18,6 +18,6 @@ pip install numpy pandas matplotlib
 
 ## Usage
 
-To use this project, simply clone or download the repository, navigate to the project directory, and run the head_size_brain_weight.ipynb Jupyter Notebook. This Notebook contains the code and explanations for loading and exploring the dataset, training a linear regression model, and visualizing the results.
+To use this project, simply clone or download the repository, navigate to the project directory, and run the analysis.ipynb Jupyter Notebook. This Notebook contains the code and explanations for loading and exploring the dataset, training a linear regression model, and visualizing the results.
 
 The Notebook is divided into sections that correspond to different parts of the analysis, and each section includes detailed comments and explanations. You can run each section by clicking on the cell and pressing Shift+Enter.
